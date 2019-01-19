@@ -13,7 +13,7 @@ public class Test : MonoBehaviour {
         {
             Debug.Log(points[i]);
         }
-        for (int i = 4; i > 0; i--)
+        for (int i = 4; i > -1; i--)
         {
             Debug.Log(points[i]);
         }
